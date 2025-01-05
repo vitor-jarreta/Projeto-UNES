@@ -32,5 +32,16 @@
   <hr>
   <h3>Sobre o Projeto: </h3>
   <p>Esse projeto é o começo do meu estudo na linguagen HTML. O Intuito dele é utilizar de várias TAGS de HTML para fazer um protótipo de um site de uma Universidade (fictícia) chamada UNES. Porém, o desafio a mais desse projeto é não utilizar nada de CSS e também não utilizar a TAG de &lt;div&gt; (container). Logo, foi necessário fazer toda a estruturação por meio de tabela, o que, claramente, não é o recomendável para a contrução de um site.</p>
-  <p>Esse projeto foi aplicado e idealizado pelo <a href="https://www.linkedin.com/in/jamiltondamasceno/" target ="_blank"><strong>Jamilton Damasceno</strong></a> no curso de <a><strong>Desenvolvimento Web Completo</strong></a> disponibilizado na Udemy.</p>
+  <p>Esse projeto foi aplicado e idealizado pelo <a href="https://www.linkedin.com/in/jamiltondamasceno/" target="_blank"><strong>Jamilton Damasceno</strong></a> no curso de <a href="https://www.udemy.com/course/web-completo" target="_blank"><strong>Desenvolvimento Web Completo</strong></a> disponibilizado na Udemy.</p>
+</div>
+
+<div>
+  <hr>
+  <h3>Resultado: </h3>
+  <h4>Home: </h4>
+  <img src="">
+  <h4>Contato: </h4>
+  <img src="">
+  <h4>Quem Somos: </h4>
+  
 </div>
